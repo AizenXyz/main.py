@@ -1,0 +1,4 @@
+flask
+ua-parser
+requests
+user-agents
